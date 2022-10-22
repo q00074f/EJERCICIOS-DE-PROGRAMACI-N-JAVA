@@ -4,6 +4,7 @@
  */
 package BOLETIN1_VariablesyCondicionales;
 import java.util.Scanner;
+//GASPAR PAUCAR WILBER ANDRIHU
 /**
  *
  * @author Usuario
